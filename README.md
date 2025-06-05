@@ -8,7 +8,7 @@ I am proficient in the following programming languages: <br /><br />
 <h3>Some stats</h3>
 <table cellspacing="5" border="0">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Psychosynthesis&show_icons=true&theme=dark" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psychosynthesis&layout=compact&theme=dark" /></td>
+    <td valign="top" style="vertical-align: top; border: none !important;"><img src="https://github-readme-stats.vercel.app/api?username=Psychosynthesis&show_icons=true&theme=dark" /></td>
+    <td valign="top" style="vertical-align: top; border: none !important;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psychosynthesis&layout=compact&theme=dark" /></td>
   </tr>
 </table>
