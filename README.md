@@ -6,8 +6,8 @@ I am proficient in the following programming languages: <br /><br />
 </div>
 <br /><br /><br />
 <h3>Some stats</h3>
-<div style="display:flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Psychosynthesis&show_icons=true&theme=dark" />
+<div style="display:flex; flex-direction: row; align-items: flex-start">
+  <img src="https://github-readme-stats.vercel.app/api?username=Psychosynthesis&show_icons=true&theme=dark" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psychosynthesis&layout=compact&theme=dark" />
 </div>
 
