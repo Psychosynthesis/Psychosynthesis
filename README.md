@@ -1,4 +1,4 @@
-<h1>Hi everyone, I'm Nick &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://komarev.com/ghpvc/?username=Psychosynthesis" /></h1>
+<h1>Hi everyone, I'm Nick</h1>
 <h3>Fullstack programmer and embedded systems engineer</h3><br />
 I am proficient in the following programming languages: <br /><br />
 <div>
